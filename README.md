@@ -75,14 +75,4 @@ sources root, and run `gui.MainWindow`.
 On first run the app seeds a handful of sample Books/Magazines/Journals if
 `data/items.txt` doesn't exist yet, so the tabs aren't empty.
 
-## Taking Screenshots for Submission
-
-This repository does not include screenshots because no JDK/display was available in the
-environment used to generate the code. After building and running the app on your own
-machine, capture:
-1. The login card.
-2. The View Items tab (showing colour-coded rows).
-3. Borrow/Return tab after a successful borrow.
-4. Admin tab with the dynamic Book/Magazine/Journal fields and the Reports dialog open.
-5. Search & Sort tab after running a search and a sort.
 
