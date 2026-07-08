@@ -1,0 +1,11 @@
+Journal|JN0001|Journal of Computer Science Research|ACM|2023|true|||0|0
+Book|BK0006|Oliver Twist|Charles Dickens|1838|true|||0|0
+Book|BK0003|Half of a Yellow Sun|Chimamanda Ngozi Adichie|2006|true|||0|0
+Book|BK0001|Things Fall Apart|Chinua Achebe|1958|false|awuya|2026-07-22|1|1
+Journal|JN0002|Cos 202|Computer Science|2026|true|||0|0
+Book|BK0004|Power|James Jones|1789|true|||0|0
+Book|BK0005|Terminator|Me|2008|false|Chinedu|2026-07-22|19|3
+Book|BK0002|Clean Code|Robert C. Martin|2008|true|||0|0
+Magazine|MG0003|Simple Mag|Simple|2026|true|||0|0
+Magazine|MG0002|TIME|Various|2024|true|||1|0
+Magazine|MG0001|National Geographic|Various|2024|true|||0|0
