@@ -86,9 +86,3 @@ machine, capture:
 4. Admin tab with the dynamic Book/Magazine/Journal fields and the Reports dialog open.
 5. Search & Sort tab after running a search and a sort.
 
-## Submission Checklist
-
-- [x] Source code folder (`src/`)
-- [ ] Screenshots of GUI (capture after running locally — see above)
-- [x] UML class diagram (`docs/UML_Class_Diagram.md`)
-- [x] Project report (`docs/Project_Report.md`)
